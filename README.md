@@ -55,11 +55,11 @@ I'll be updating this repository regularly as I solve new problems and learn new
 
 * Arrays & Strings
 * Linked Lists
-* Trees & Graphs
 * Dynamic Programming
 * Binary Search
 * Sliding Window
-* Backtracking
+* Prefix Sum
+* Binary Search Tree
 * and more...
 
 ## 🤝 Let's Connect

@@ -1,12 +1,7 @@
-# LeetCode_Grind_Vivek
-Here's a clear and professional README content you can use for your GitHub repository dedicated to your LeetCode journey:
-
----
-
 # 🧠 My LeetCode Journey
 
 Welcome to my LeetCode journey! 🚀
-This repository is a personal log of my progress, learnings, and solutions as I work through coding challenges on [LeetCode](https://leetcode.com/).
+This repository is a personal log of my progress, learnings, and solutions as I work through coding challenges on [LeetCode]((https://leetcode.com/u/VivekKomal/)).
 
 ## 📌 Purpose
 

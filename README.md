@@ -61,7 +61,4 @@ I'll be updating this repository regularly as I solve new problems and learn new
 
 If you're also on a LeetCode journey, feel free to fork this repo, share ideas, or reach out! Let's grow together. 🙌
 
----
-
-Feel free to customize this based on your style or add badges, links to your LeetCode profile, or specific problem sets. Let me know if you'd like help auto-generating a progress tracker or README badges!
 

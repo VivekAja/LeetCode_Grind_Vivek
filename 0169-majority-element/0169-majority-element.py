@@ -1,3 +1,5 @@
+#BruteForce but the most efficient
+
 from collections import Counter
 class Solution(object):
     def majorityElement(self, nums):

@@ -1,3 +1,6 @@
+# Time = O(n**2 * L)
+# Space = O(n)
+
 class Solution(object):
     def getWordsInLongestSubsequence(self, words, groups):
         """

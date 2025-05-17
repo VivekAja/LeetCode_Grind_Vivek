@@ -65,4 +65,11 @@ print(sol.hasPathSum_iterative(root, 18)) # Output: True
 print(sol.hasPathSum_iterative(root, 10)) # Output: False
 print(sol.hasPathSum_iterative(None, 0)) # Empty tree edge case
 print(sol.hasPathSum_iterative(None, 0)) # Output: False
+
+Time Complexity: Both approaches visit each node at most once. For each node, we do constant time work (arithmetic, comparisons, stack push/pop). So, the time complexity is O(N), where N is the number of nodes in the tree.
+
+Space Complexity:
+
+Recursive: In the worst case (a skewed tree), the depth of the recursion can be O(N). This consumes O(N) space on the call stack. In the best case (a balanced tree), the depth is O(log N), leading to O(log N) space.
+Iterative: In the worst case (a skewed tree), the stack can hold up to O(N) nodes. In the best case (a balanced tree), the maximum stack size is O(log N). So, the space complexity is O(N) in the worst case and O(log N) in the best case.
 """

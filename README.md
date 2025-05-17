@@ -40,7 +40,7 @@ Currently, I'm using:
 
 * **Python** 🐍
 
-I may add support for other languages like C++, JavaScript, or Java in the future.
+I may add support for other languages like C++ and Java in the future.
 
 ## 📅 Progress Log
 

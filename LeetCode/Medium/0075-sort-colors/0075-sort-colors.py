@@ -19,3 +19,28 @@ class Solution(object):
                     swapped = True
             if (swapped == False):
                 break
+
+========================================================================
+#One Pass Solution 
+#Constant Space
+#DutchNationalFlag
+class Solution(object):
+    def sortColors(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: None Do not return anything, modify nums in-place instead.
+        """
+        
+        low = 0
+        mid = 0
+        end = len(nums) - 1
+        while mid <= end:
+            if nums[mid] == 0:
+                nums[mid], nums[low] = nums[low],nums[mid]
+                low += 1
+                mid += 1
+            elif nums[mid] == 1:
+                mid += 1
+            else:
+                nums[mid], nums[end] = nums[end],nums[mid]
+                end -= 1

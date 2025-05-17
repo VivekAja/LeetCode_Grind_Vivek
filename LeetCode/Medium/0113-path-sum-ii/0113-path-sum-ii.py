@@ -27,3 +27,5 @@ class Solution(object):
 
         dfs(root, [], 0)
         return self.allpaths
+# Time: O(N*H)
+#Space: O(H)

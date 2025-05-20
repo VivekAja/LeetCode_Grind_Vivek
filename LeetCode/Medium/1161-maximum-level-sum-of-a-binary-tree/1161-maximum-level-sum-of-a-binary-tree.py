@@ -1,32 +1,30 @@
 # Definition for a binary tree node.
-# class TreeNode:
+# class TreeNode(object):
 #     def __init__(self, val=0, left=None, right=None):
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution:
-    def maxLevelSum(self, root: Optional[TreeNode]) -> int:
-        if not root:
-            return []
-        res = 0
-        result= []
-        queue = deque([root])
+class Solution(object):
+    def maxLevelSum(self, root):
+        """
+        :type root: Optional[TreeNode]
+        :rtype: int
+        """
+        res = []
 
-        while queue:
-            level = len(queue)
+        def dfs(node, level):
             temp = 0
-            for i in range(level):
-                node = queue.popleft()
-                #if i == level - 1:
-                temp += node.val
-                if node.left:
-                    queue.append(node.left)
-                if node.right:
-                    queue.append(node.right)
-            #res = max(res, temp)
-            result.append(temp)
+            if not node:
+                return
+            if level == len(res):
+                res.append(node.val)
+            else:
+                res[level] += node.val
+            #res.append(temp)
+            dfs(node.left, level + 1)
+            dfs(node.right, level + 1)
 
-        larg = max(result)
-        l = result.index(larg)
+        dfs(root, 0)
+        larg = max(res)
+        l = res.index(larg)
         return l+1
-        

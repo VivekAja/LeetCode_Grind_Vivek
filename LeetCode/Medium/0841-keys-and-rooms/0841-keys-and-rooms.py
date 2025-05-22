@@ -1,10 +1,5 @@
-class Solution(object):
-    def canVisitAllRooms(self, rooms):
-        """
-        :type rooms: List[List[int]]
-        :rtype: bool
-        """
-        n = len(rooms)
+class Solution:
+    def canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
         visited = set()
 
         def dfs(room):
@@ -12,6 +7,6 @@ class Solution(object):
             for key in rooms[room]:
                 if key not in visited:
                     dfs(key)
-            
+
         dfs(0)
-        return len(visited) == n
+        return len(visited) == len(rooms)

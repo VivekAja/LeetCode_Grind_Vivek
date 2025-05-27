@@ -1,3 +1,7 @@
+#DFS
+# Time: O(N+E)
+# Space: 
+
 class Solution:
     def largestPathValue(self, colors: str, edges: List[List[int]]) -> int:
         adj = defaultdict(list)

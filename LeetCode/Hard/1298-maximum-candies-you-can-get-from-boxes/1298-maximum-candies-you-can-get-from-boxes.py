@@ -1,3 +1,6 @@
+#Approach-1 (Using DFS)
+#T.C : O(n), where n =  number of boxes, we don't visit any box more than once
+#S.C : O(n)
 class Solution:
     def dfs(self, box: int, status: list[int], candies: list[int], keys: list[list[int]],
             containedBoxes: list[list[int]], visited: set[int], foundBoxes: set[int]) -> int:
@@ -47,3 +50,41 @@ class Solution:
         for box in initialBoxes:
             totalcandies += self.dfs(box, status, candies, keys, containedBoxes, visited, found)
         return totalcandies
+
+
+
+#Approach-2 (Using BFS)
+#T.C : O(n), where n =  number of boxes, we don't visit any box more than once
+#S.C : O(n)
+
+from collections import deque
+class Solution:
+    def maxCandies(self, status: List[int], candies: List[int], keys: List[List[int]], containedBoxes: List[List[int]], initialBoxes: List[int]) -> int:
+        total = 0
+        visited = set()
+        found = set()
+        queue = deque()
+        for box in initialBoxes:
+            found.add(box)
+            if status[box] == 1:
+                queue.append(box)
+                visited.add(box)
+                total += candies[box]
+
+        while queue:
+            box = queue.popleft()
+
+            for insidebox in containedBoxes[box]:
+                found.add(insidebox)
+                if status[insidebox] == 1 and insidebox not in visited:
+                    queue.append(insidebox)
+                    visited.add(insidebox)
+                    total += candies[insidebox]
+
+            for key in keys[box]:
+                status[key] = 1
+                if key in found and key not in visited:
+                    queue.append(key)
+                    visited.add(key)
+                    total += candies[key]
+        return total

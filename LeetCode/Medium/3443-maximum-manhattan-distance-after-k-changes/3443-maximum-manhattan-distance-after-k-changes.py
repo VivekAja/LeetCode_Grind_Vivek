@@ -1,20 +1,18 @@
 class Solution:
     def maxDistance(self, s: str, k: int) -> int:
-        no , so, w, e = 0, 0, 0 ,0
         max_md = 0
         
         east = west = north = south = 0
 
         for i in range(len(s)):
-            c = s[i]
 
-            if c == 'E':
+            if s[i] == 'E':
                 east += 1
-            elif c == 'W':
+            elif s[i] == 'W':
                 west += 1
-            elif c == 'N':
+            elif s[i] == 'N':
                 north += 1
-            elif c == 'S':
+            elif s[i] == 'S':
                 south += 1
 
             curr_md = abs(east - west) + abs(north - south)

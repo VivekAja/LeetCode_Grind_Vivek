@@ -26,21 +26,3 @@ class FindSumPairs:
 # obj = FindSumPairs(nums1, nums2)
 # obj.add(index,val)
 # param_2 = obj.count(tot)
-    def __init__(self, nums1, nums2):
-        self.vec1 = nums1
-        self.vec2 = nums2
-        self.mp = Counter(nums2)
-
-    def add(self, index, val):
-        old_val = self.vec2[index]
-        self.mp[old_val] -= 1
-        if self.mp[old_val] == 0:
-            del self.mp[old_val]  # Clean up
-        self.vec2[index] += val
-        self.mp[self.vec2[index]] += 1
-
-    def count(self, tot):
-        count = 0
-        for x in self.vec1:
-            count += self.mp[tot - x]
-        return count

@@ -62,3 +62,11 @@ I'll be updating this repository regularly as I solve new problems and learn new
 If you're also on a LeetCode journey, feel free to fork this repo, share ideas, or reach out! Let's grow together. 🙌
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+<!---LeetCode Topics End-->

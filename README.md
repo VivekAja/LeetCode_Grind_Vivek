@@ -73,6 +73,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1470-shuffle-the-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -88,4 +89,16 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->

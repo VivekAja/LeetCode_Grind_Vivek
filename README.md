@@ -73,6 +73,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0137-single-number-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -111,6 +112,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0137-single-number-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |

@@ -111,6 +111,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0190-reverse-bits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -140,4 +141,8 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->

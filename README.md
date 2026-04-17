@@ -69,6 +69,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -115,6 +116,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0137-single-number-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0190-reverse-bits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |

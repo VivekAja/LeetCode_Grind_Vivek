@@ -1,13 +1,8 @@
 class Solution:
     def hammingDistance(self, x: int, y: int) -> int:
-        x_bin = bin(x)[2:]
-        y_bin = bin(y)[2:]
-        maxlen = max(len(x_bin), len(y_bin))
-        sx = x_bin.zfill(maxlen)
-        sy = y_bin.zfill(maxlen)
         count = 0
-        for a, b in zip(sx, sy):
-            if a!= b:
+        for i in range(32):
+            if (1<<i) & x != (1<<i)& y:
                 count+=1
         return count
         

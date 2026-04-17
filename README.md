@@ -119,6 +119,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0461-hamming-distance](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |

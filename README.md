@@ -117,6 +117,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0190-reverse-bits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0461-hamming-distance](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0461-hamming-distance/) | Easy |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

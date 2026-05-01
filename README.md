@@ -80,6 +80,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0238-product-of-array-except-self](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0396-rotate-function](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0463-island-perimeter](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
@@ -100,6 +101,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -173,4 +175,12 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | ------- | ------- |
 | [0396-rotate-function](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 <!---LeetCode Topics End-->

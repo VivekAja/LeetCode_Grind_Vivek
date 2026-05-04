@@ -76,6 +76,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0137-single-number-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
@@ -103,6 +104,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0463-island-perimeter](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -155,6 +157,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0396-rotate-function](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |

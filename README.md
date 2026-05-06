@@ -91,6 +91,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
+| [1861-rotating-the-box](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -102,6 +103,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [1861-rotating-the-box](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -109,6 +111,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0048-rotate-image](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0463-island-perimeter](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
+| [1861-rotating-the-box](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |

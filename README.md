@@ -98,6 +98,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
+| [3660-jump-game-ix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -190,6 +191,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0396-rotate-function](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+| [3660-jump-game-ix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |

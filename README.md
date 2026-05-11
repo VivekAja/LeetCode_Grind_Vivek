@@ -98,6 +98,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3660-jump-game-ix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3660-jump-game-ix/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -132,6 +133,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -172,6 +174,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0788-rotated-digits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -202,6 +205,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +214,8 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 <!---LeetCode Topics End-->

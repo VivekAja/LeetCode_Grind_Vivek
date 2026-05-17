@@ -90,6 +90,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0605-can-place-flowers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [1306-jump-game-iii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
@@ -212,10 +213,12 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [1306-jump-game-iii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0463-island-perimeter/) | Easy |
+| [1306-jump-game-iii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |

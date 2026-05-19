@@ -11,7 +11,6 @@ class Solution:
         SC: O(1)
         ================
         2. Binary Search 
-        """
         def binarys(arr, target):
             l, r  = 0, len(arr)-1
             while l<=r:
@@ -28,6 +27,27 @@ class Solution:
             if binarys(nums2, num):
                 return num
         return -1
+        Time Complexity: O(N \log M)
+        Space Complexity: O(1)
+        """
+        memoization = {}
+
+        def dp (i , j):
+            if i >= len(nums1) or j >= len(nums2):
+                return -1
+            if (i, j) in memoization:
+                return memoization[(i,j)]
+            
+            if nums1[i] == nums2[j]:
+                return nums1[i]
+            elif nums1[i] < nums2[j]:
+                res = dp(i+1, j)
+            else:
+                res = dp(i, j+1)
+            memoization[(i, j)] = res
+            return res
+        return dp(0,0)
+
 
 
 

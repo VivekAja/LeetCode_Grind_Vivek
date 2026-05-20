@@ -1,5 +1,7 @@
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
+        """
+        1. Frequency mapping
         ans = []
         n = len(A)
         counts = [0] * (n+1)
@@ -13,3 +15,30 @@ class Solution:
                 gays+=1
             ans.append(gays)
         return ans 
+
+        TC: O(N)
+        SC: O(N)
+
+        =============================
+
+        2. Using Set
+        """
+        ans = []
+        n = len(A)
+        gays = 0
+        seen = set()
+
+        for i in range(n):
+            if A[i] in seen:
+                gays +=1 
+            else:
+                seen.add(A[i])
+
+            if B[i] in seen:
+                gays+=1
+            else:
+                seen.add(B[i])
+
+            ans.append(gays)
+        return ans
+

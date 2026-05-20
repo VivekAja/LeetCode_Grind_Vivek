@@ -50,14 +50,20 @@ class Solution:
 
         """
         ans = []
-        maska = 0
-        maskb = 0
+        seen_mask = 0
+        common = 0
 
         for i in range(len(A)):
-            maska |= 1 << A[i]
-            maskb |= 1 << B[i]
+            # Check if A[i] was already seen in B
+            if (seen_mask & (1 << A[i])) != 0:
+                common += 1
+            seen_mask |= 1 << A[i]  # Mark A[i] as seen
 
-            gays_count = bin(maska & maskb).count("1")
-            ans.append(gays_count)
+            # Check if B[i] was already seen in A
+            if (seen_mask & (1 << B[i])) != 0:
+                common += 1
+            seen_mask |= 1 << B[i]  # Mark B[i] as seen
+
+            ans.append(common)
 
         return ans

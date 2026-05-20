@@ -22,7 +22,7 @@ class Solution:
         =============================
 
         2. Using Set
-        """
+        
         ans = []
         n = len(A)
         gays = 0
@@ -41,4 +41,23 @@ class Solution:
 
             ans.append(gays)
         return ans
+        TC: O(N)
+        SC: O(N)
 
+        ==================
+
+        Bit Mask
+
+        """
+        ans = []
+        maska = 0
+        maskb = 0
+
+        for i in range(len(A)):
+            maska |= 1 << A[i]
+            maskb |= 1 << B[i]
+
+            gays_count = bin(maska & maskb).count("1")
+            ans.append(gays_count)
+
+        return ans

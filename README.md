@@ -74,6 +74,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0796-rotate-string](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2553-separate-the-digits-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -148,6 +150,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2540-minimum-common-value](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Bit Manipulation
@@ -247,4 +250,8 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->

@@ -78,6 +78,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0137-single-number-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0137-single-number-ii/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -247,6 +248,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [2540-minimum-common-value](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |

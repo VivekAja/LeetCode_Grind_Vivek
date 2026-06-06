@@ -113,6 +113,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -227,6 +228,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0238-product-of-array-except-self](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |

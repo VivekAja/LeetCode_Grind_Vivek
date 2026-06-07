@@ -110,6 +110,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
@@ -163,6 +164,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -320,4 +322,12 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2196-create-binary-tree-from-descriptions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 <!---LeetCode Topics End-->

@@ -229,6 +229,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0048-rotate-image](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0067-add-binary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0263-ugly-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0396-rotate-function](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |

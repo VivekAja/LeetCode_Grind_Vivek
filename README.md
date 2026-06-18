@@ -241,6 +241,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0788-rotated-digits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |

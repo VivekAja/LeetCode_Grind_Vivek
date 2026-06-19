@@ -107,6 +107,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1861-rotating-the-box](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
@@ -255,6 +256,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |

@@ -372,4 +372,8 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0178-rank-scores](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0178-rank-scores/) | Medium |
 <!---LeetCode Topics End-->

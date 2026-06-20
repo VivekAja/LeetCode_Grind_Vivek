@@ -378,4 +378,5 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0178-rank-scores](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0180-consecutive-numbers/) | Medium |
 | [0262-trips-and-users](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0262-trips-and-users/) | Hard |
+| [0601-human-traffic-of-stadium](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0601-human-traffic-of-stadium/) | Hard |
 <!---LeetCode Topics End-->

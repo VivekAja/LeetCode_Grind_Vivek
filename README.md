@@ -376,4 +376,5 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0178-rank-scores](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0178-rank-scores/) | Medium |
+| [0180-consecutive-numbers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0180-consecutive-numbers/) | Medium |
 <!---LeetCode Topics End-->

@@ -109,6 +109,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1861-rotating-the-box](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -212,6 +213,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -222,6 +224,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -266,6 +269,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | ------- | ------- |
 | [0605-can-place-flowers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1833-maximum-ice-cream-bars](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |

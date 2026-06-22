@@ -72,6 +72,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0796-rotate-string](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
@@ -180,6 +181,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0146-lru-cache](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -223,6 +225,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |

@@ -75,6 +75,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1189-maximum-number-of-balloons](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3093-longest-common-suffix-queries/) | Hard |
@@ -113,6 +114,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1833-maximum-ice-cream-bars](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1861-rotating-the-box](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [1929-concatenation-of-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |

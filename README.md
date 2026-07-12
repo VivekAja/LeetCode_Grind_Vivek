@@ -102,6 +102,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0636-exclusive-time-of-functions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1306-jump-game-iii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
@@ -190,6 +191,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -221,6 +223,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |

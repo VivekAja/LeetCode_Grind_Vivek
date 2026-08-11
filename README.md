@@ -99,6 +99,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0485-max-consecutive-ones](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0605-can-place-flowers/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1306-jump-game-iii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
@@ -230,6 +231,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
@@ -271,6 +273,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0396-rotate-function](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |

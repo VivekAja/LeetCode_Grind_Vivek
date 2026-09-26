@@ -1,21 +1,22 @@
 class Solution:
     def evaluate(self, s: str, knowledge: list[list[str]]) -> str:
-        knmap ={key:value for key, value in knowledge}
-        inside = False
-        temp = ""
-        result = []
+        knmap = { key: value for key, value in knowledge}
 
-        for c in s:
-            if c == "(":
+        result = []
+        temp  = ""
+        inside = False
+
+        for a in s:
+            if a == "(":
                 inside = True
                 temp = ""
-            elif c == ")":
+            elif a == ")":
                 value = knmap.get(temp, "?")
                 result.append(value)
                 inside = False
             elif inside:
-                temp +=c
+                temp +=a
             else:
-                result.append(c)
+                result.append(a)
 
         return "".join(result)

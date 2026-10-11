@@ -129,6 +129,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2161-partition-array-according-to-given-pivot](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [2540-minimum-common-value](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
@@ -251,6 +252,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -319,6 +321,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3689-maximum-total-subarray-value-i/) | Medium |
@@ -381,6 +384,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0033-search-in-rotated-sorted-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3161-block-placement-queries/) | Hard |
@@ -432,6 +436,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |

@@ -448,6 +448,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0180-consecutive-numbers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0180-consecutive-numbers/) | Medium |
 | [0262-trips-and-users](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0262-trips-and-users/) | Hard |
 | [0584-find-customer-referee](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0601-human-traffic-of-stadium/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |

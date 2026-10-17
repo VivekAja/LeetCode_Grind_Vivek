@@ -147,6 +147,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -220,6 +221,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -255,6 +257,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2333-minimum-sum-of-squared-difference](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |

@@ -453,6 +453,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0584-find-customer-referee](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0601-human-traffic-of-stadium](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0601-human-traffic-of-stadium/) | Hard |
+| [1148-article-views-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |

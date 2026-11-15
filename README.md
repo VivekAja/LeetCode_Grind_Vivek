@@ -112,6 +112,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1441-build-an-array-with-stack-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1470-shuffle-the-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1470-shuffle-the-array/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
@@ -293,6 +294,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0628-maximum-product-of-three-numbers](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
@@ -310,6 +312,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -343,6 +346,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0396-rotate-function](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [1340-jump-game-v](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |

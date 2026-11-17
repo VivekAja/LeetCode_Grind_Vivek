@@ -463,6 +463,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0601-human-traffic-of-stadium](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0601-human-traffic-of-stadium/) | Hard |
 | [1068-product-sales-analysis-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
+| [1280-students-and-examinations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |

@@ -78,6 +78,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2506-count-pairs-of-similar-strings/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3093-longest-common-suffix-queries/) | Hard |

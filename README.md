@@ -468,6 +468,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1280-students-and-examinations](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1280-students-and-examinations/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1934-confirmation-rate](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1934-confirmation-rate/) | Medium |
 ## Merge Sort

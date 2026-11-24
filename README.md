@@ -72,6 +72,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0415-add-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0415-add-strings/) | Easy |
 | [0796-rotate-string](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -211,6 +212,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0146-lru-cache](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -397,6 +399,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [0033-search-in-rotated-sorted-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0981-time-based-key-value-store](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
@@ -435,6 +438,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

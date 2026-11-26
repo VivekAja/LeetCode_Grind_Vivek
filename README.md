@@ -201,6 +201,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [1929-concatenation-of-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
+| [3360-stone-removal-game](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
@@ -303,6 +304,7 @@ If you're also on a LeetCode journey, feel free to fork this repo, share ideas, 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/2485-find-the-pivot-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Easy/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VivekAja/LeetCode_Grind_Vivek/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
